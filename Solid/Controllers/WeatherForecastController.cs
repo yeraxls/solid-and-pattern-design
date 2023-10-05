@@ -41,4 +41,10 @@ public class WeatherForecastController : ControllerBase
             new Water{Name="Water", Price=2, Invoice=0.1m }
         });
     }
+    [HttpGet("Liskov")]
+    public void Liskov()
+    {
+        var liskov = new  Liskov();
+        liskov.Sustituir();
+    }
 }
