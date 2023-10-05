@@ -4,6 +4,8 @@ en caso de ampliarse el número de bebidas en el futuro,
 simplemente habría que crear la nueva clase, 
 pero el método para calcular el precio no haría falta.
 abierto a la extensión, pero cerrado a la modificación.
+Al mismo tiempo se le ha añadido una clase abstracta, ya que no trabajaremos con ella
+para reutilizar parámetros, haciendo un override para pisar el método GetPrice
 */
 public class Invoice
 {
