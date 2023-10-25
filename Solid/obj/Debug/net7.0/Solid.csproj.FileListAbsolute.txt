@@ -31,3 +31,4 @@ E:\proyectos\solid-and-pattern-design\Solid\obj\Debug\net7.0\refint\Solid.dll
 E:\proyectos\solid-and-pattern-design\Solid\obj\Debug\net7.0\Solid.pdb
 E:\proyectos\solid-and-pattern-design\Solid\obj\Debug\net7.0\Solid.genruntimeconfig.cache
 E:\proyectos\solid-and-pattern-design\Solid\obj\Debug\net7.0\ref\Solid.dll
+E:\proyectos\solid-and-pattern-design\Solid\bin\Debug\net7.0\Principios\DIP\posts.json

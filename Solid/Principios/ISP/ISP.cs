@@ -1,4 +1,5 @@
 /*
+Segregación de interfaces
 Crear interfaces pequeñas para que las clases donde se implementen sean pequeñas
 va muy de la mano de sustitución de Liskov, pero liskov es sustitución y herencia
 esto es interfaces, implementaciones de múltiples interfaces

@@ -47,4 +47,10 @@ public class WeatherForecastController : ControllerBase
         var liskov = new  Liskov();
         liskov.Sustituir();
     }
+    [HttpGet("DIP")]
+    public void DIP()
+    {
+        var dip = new Inicio();
+        dip.prueba();
+    }
 }
