@@ -1,0 +1,3 @@
+/*
+los patrones creacionales son aquellos que ayudan a configurar relaciones entre objetos.
+*/
